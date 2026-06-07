@@ -90,12 +90,3 @@ Here are some ideas to get you started:
 - **Cloud & Deployment:** ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevJaiswal&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
