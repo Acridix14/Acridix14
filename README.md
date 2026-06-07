@@ -45,13 +45,14 @@ Here are some ideas to get you started:
 
 <!-- About Me Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white" alt="About Me">
+  <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white" alt="About Me/Обо мне">
 </p>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me/Обо мне
 
-- 🚀 **Education:** B.Tech in Computer Science and Engineering (Data Science)  
-  *JSS Academy of Technical Education - Noida*
+- 🚀 **Education/Образование:**
+- Ноябрьский колледж профессиональных и информационных технологий (2020-2024). Специалист по информационным системам. 
+- Уфимский государственный нефтяной технический университет (2024 - н.в.). Бакалавр в области прикладной информатики.
 
 ---
 
